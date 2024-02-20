@@ -1,0 +1,7 @@
+D:\repos\NameDisplayusingForLoop\NameDisplayusingForLoop\bin\Debug\NameDisplayusingForLoop.exe.config
+D:\repos\NameDisplayusingForLoop\NameDisplayusingForLoop\bin\Debug\NameDisplayusingForLoop.exe
+D:\repos\NameDisplayusingForLoop\NameDisplayusingForLoop\bin\Debug\NameDisplayusingForLoop.pdb
+D:\repos\NameDisplayusingForLoop\NameDisplayusingForLoop\obj\Debug\NameDisplayusingForLoop.csproj.AssemblyReference.cache
+D:\repos\NameDisplayusingForLoop\NameDisplayusingForLoop\obj\Debug\NameDisplayusingForLoop.csproj.CoreCompileInputs.cache
+D:\repos\NameDisplayusingForLoop\NameDisplayusingForLoop\obj\Debug\NameDisplayusingForLoop.exe
+D:\repos\NameDisplayusingForLoop\NameDisplayusingForLoop\obj\Debug\NameDisplayusingForLoop.pdb
