@@ -1,0 +1,7 @@
+D:\repos\QuizGame_(withLives)\QuizGame_(withLives)\bin\Debug\QuizGame_(withLives).exe.config
+D:\repos\QuizGame_(withLives)\QuizGame_(withLives)\bin\Debug\QuizGame_(withLives).exe
+D:\repos\QuizGame_(withLives)\QuizGame_(withLives)\bin\Debug\QuizGame_(withLives).pdb
+D:\repos\QuizGame_(withLives)\QuizGame_(withLives)\obj\Debug\QuizGame_(withLives).csproj.AssemblyReference.cache
+D:\repos\QuizGame_(withLives)\QuizGame_(withLives)\obj\Debug\QuizGame_(withLives).csproj.CoreCompileInputs.cache
+D:\repos\QuizGame_(withLives)\QuizGame_(withLives)\obj\Debug\QuizGame_(withLives).exe
+D:\repos\QuizGame_(withLives)\QuizGame_(withLives)\obj\Debug\QuizGame_(withLives).pdb
