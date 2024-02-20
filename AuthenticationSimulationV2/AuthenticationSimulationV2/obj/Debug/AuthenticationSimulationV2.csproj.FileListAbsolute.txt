@@ -1,0 +1,7 @@
+D:\repos\AuthenticationSimulationV2\AuthenticationSimulationV2\bin\Debug\AuthenticationSimulationV2.exe.config
+D:\repos\AuthenticationSimulationV2\AuthenticationSimulationV2\bin\Debug\AuthenticationSimulationV2.exe
+D:\repos\AuthenticationSimulationV2\AuthenticationSimulationV2\bin\Debug\AuthenticationSimulationV2.pdb
+D:\repos\AuthenticationSimulationV2\AuthenticationSimulationV2\obj\Debug\AuthenticationSimulationV2.csproj.AssemblyReference.cache
+D:\repos\AuthenticationSimulationV2\AuthenticationSimulationV2\obj\Debug\AuthenticationSimulationV2.csproj.CoreCompileInputs.cache
+D:\repos\AuthenticationSimulationV2\AuthenticationSimulationV2\obj\Debug\AuthenticationSimulationV2.exe
+D:\repos\AuthenticationSimulationV2\AuthenticationSimulationV2\obj\Debug\AuthenticationSimulationV2.pdb
