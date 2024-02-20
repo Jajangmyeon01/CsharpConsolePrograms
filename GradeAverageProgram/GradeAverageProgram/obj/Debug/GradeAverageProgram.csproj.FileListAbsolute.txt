@@ -1,0 +1,7 @@
+D:\repos\GradeAverageProgram\GradeAverageProgram\bin\Debug\GradeAverageProgram.exe.config
+D:\repos\GradeAverageProgram\GradeAverageProgram\bin\Debug\GradeAverageProgram.exe
+D:\repos\GradeAverageProgram\GradeAverageProgram\bin\Debug\GradeAverageProgram.pdb
+D:\repos\GradeAverageProgram\GradeAverageProgram\obj\Debug\GradeAverageProgram.csproj.AssemblyReference.cache
+D:\repos\GradeAverageProgram\GradeAverageProgram\obj\Debug\GradeAverageProgram.csproj.CoreCompileInputs.cache
+D:\repos\GradeAverageProgram\GradeAverageProgram\obj\Debug\GradeAverageProgram.exe
+D:\repos\GradeAverageProgram\GradeAverageProgram\obj\Debug\GradeAverageProgram.pdb
