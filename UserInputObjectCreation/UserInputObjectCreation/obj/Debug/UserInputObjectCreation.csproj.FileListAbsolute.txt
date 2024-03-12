@@ -1,0 +1,7 @@
+D:\repos\UserInputObjectCreation\UserInputObjectCreation\bin\Debug\UserInputObjectCreation.exe.config
+D:\repos\UserInputObjectCreation\UserInputObjectCreation\bin\Debug\UserInputObjectCreation.exe
+D:\repos\UserInputObjectCreation\UserInputObjectCreation\bin\Debug\UserInputObjectCreation.pdb
+D:\repos\UserInputObjectCreation\UserInputObjectCreation\obj\Debug\UserInputObjectCreation.csproj.AssemblyReference.cache
+D:\repos\UserInputObjectCreation\UserInputObjectCreation\obj\Debug\UserInputObjectCreation.csproj.CoreCompileInputs.cache
+D:\repos\UserInputObjectCreation\UserInputObjectCreation\obj\Debug\UserInputObjectCreation.exe
+D:\repos\UserInputObjectCreation\UserInputObjectCreation\obj\Debug\UserInputObjectCreation.pdb
