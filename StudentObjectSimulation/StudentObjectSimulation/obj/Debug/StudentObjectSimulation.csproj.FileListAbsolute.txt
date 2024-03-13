@@ -1,0 +1,7 @@
+D:\repos\StudentObjectSimulation\StudentObjectSimulation\bin\Debug\StudentObjectSimulation.exe.config
+D:\repos\StudentObjectSimulation\StudentObjectSimulation\bin\Debug\StudentObjectSimulation.exe
+D:\repos\StudentObjectSimulation\StudentObjectSimulation\bin\Debug\StudentObjectSimulation.pdb
+D:\repos\StudentObjectSimulation\StudentObjectSimulation\obj\Debug\StudentObjectSimulation.csproj.AssemblyReference.cache
+D:\repos\StudentObjectSimulation\StudentObjectSimulation\obj\Debug\StudentObjectSimulation.csproj.CoreCompileInputs.cache
+D:\repos\StudentObjectSimulation\StudentObjectSimulation\obj\Debug\StudentObjectSimulation.exe
+D:\repos\StudentObjectSimulation\StudentObjectSimulation\obj\Debug\StudentObjectSimulation.pdb
