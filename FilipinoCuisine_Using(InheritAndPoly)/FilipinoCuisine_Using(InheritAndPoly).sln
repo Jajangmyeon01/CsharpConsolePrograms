@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilipinoCuisine_Using(InheritAndPoly)", "FilipinoCuisine_Using(InheritAndPoly)\FilipinoCuisine_Using(InheritAndPoly).csproj", "{15F9046A-38DC-4D5E-BEC3-EAA814D9197B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F9046A-38DC-4D5E-BEC3-EAA814D9197B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F9046A-38DC-4D5E-BEC3-EAA814D9197B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F9046A-38DC-4D5E-BEC3-EAA814D9197B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F9046A-38DC-4D5E-BEC3-EAA814D9197B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F203AA5-FBB7-4599-B8FE-6E01F1C348EC}
+	EndGlobalSection
+EndGlobal

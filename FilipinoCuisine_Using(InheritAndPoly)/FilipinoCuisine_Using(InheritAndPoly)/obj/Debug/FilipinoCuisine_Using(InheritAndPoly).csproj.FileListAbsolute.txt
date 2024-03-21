@@ -1,0 +1,7 @@
+D:\repos\FilipinoCuisine_Using(InheritAndPoly)\FilipinoCuisine_Using(InheritAndPoly)\bin\Debug\FilipinoCuisine_Using(InheritAndPoly).exe.config
+D:\repos\FilipinoCuisine_Using(InheritAndPoly)\FilipinoCuisine_Using(InheritAndPoly)\bin\Debug\FilipinoCuisine_Using(InheritAndPoly).exe
+D:\repos\FilipinoCuisine_Using(InheritAndPoly)\FilipinoCuisine_Using(InheritAndPoly)\bin\Debug\FilipinoCuisine_Using(InheritAndPoly).pdb
+D:\repos\FilipinoCuisine_Using(InheritAndPoly)\FilipinoCuisine_Using(InheritAndPoly)\obj\Debug\FilipinoCuisine_Using(InheritAndPoly).csproj.AssemblyReference.cache
+D:\repos\FilipinoCuisine_Using(InheritAndPoly)\FilipinoCuisine_Using(InheritAndPoly)\obj\Debug\FilipinoCuisine_Using(InheritAndPoly).csproj.CoreCompileInputs.cache
+D:\repos\FilipinoCuisine_Using(InheritAndPoly)\FilipinoCuisine_Using(InheritAndPoly)\obj\Debug\FilipinoCuisine_Using(InheritAndPoly).exe
+D:\repos\FilipinoCuisine_Using(InheritAndPoly)\FilipinoCuisine_Using(InheritAndPoly)\obj\Debug\FilipinoCuisine_Using(InheritAndPoly).pdb
