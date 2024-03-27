@@ -1,0 +1,7 @@
+D:\repos\Student Registration Simulation\Student Registration Simulation\bin\Debug\Student Registration Simulation.exe.config
+D:\repos\Student Registration Simulation\Student Registration Simulation\bin\Debug\Student Registration Simulation.exe
+D:\repos\Student Registration Simulation\Student Registration Simulation\bin\Debug\Student Registration Simulation.pdb
+D:\repos\Student Registration Simulation\Student Registration Simulation\obj\Debug\Student Registration Simulation.csproj.AssemblyReference.cache
+D:\repos\Student Registration Simulation\Student Registration Simulation\obj\Debug\Student Registration Simulation.csproj.CoreCompileInputs.cache
+D:\repos\Student Registration Simulation\Student Registration Simulation\obj\Debug\Student Registration Simulation.exe
+D:\repos\Student Registration Simulation\Student Registration Simulation\obj\Debug\Student Registration Simulation.pdb
